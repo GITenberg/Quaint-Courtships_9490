@@ -1,0 +1,37 @@
+_repo: Quaint-Courtships_9490
+_version: 0.0.1
+creator:
+  editors:
+  - agent_name: Alden, Henry Mills
+    birthdate: 1836
+    deathdate: 1919
+    gutenberg_agent_id: '2444'
+    url: http://www.gutenberg.org/2009/agents/2444
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Mills_Alden
+  - agent_name: Howells, William Dean
+    aliases:
+    - Howells, W. D. (William Dean)
+    - Howells, William D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: ''
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9490'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: An Encore -- A Romance of Whooping Harbor -- Hyacinthus -- Jane's
+  Gray Eyes -- A Stiff Condition -- In the Interests of Christopher -- The Wrong Door
+  -- Braybridge's Offer -- The Rubaiyat and the Liner -- The Minister.
+title: Quaint Courtships
+url: http://www.gutenberg.org/ebooks/9490
